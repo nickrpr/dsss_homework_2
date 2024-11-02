@@ -8,5 +8,5 @@ setup(
     author_email="nick.rupprecht@fau.de",
     description='math quiz for dsss homework',
     packages=find_packages(),
-    install_requires=["random"],
+    install_requires=[],
 )
